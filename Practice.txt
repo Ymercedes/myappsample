@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W#C/DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+
+<head>
+<title>
+Practice
+</title>
+	<style type="text/css">
+	h4 {background-color:red;
+			color: white;
+			width: 350px;
+			height: 100px;
+			border: 3px solid black;}
+	<!--margin is inside the border and padding is outside the border-->
+		p {background-color:orange;
+			margin:40px;
+		}
+		ul {border: 1px solid blue;
+			list-style-type:none;
+			padding:0 ;}
+	</style>
+</head>
+
+<body>
+<h4>My name is forest Gump</h4>
+<p>The game is about to start.</p>
+<p>Practice makes perfect. </p>
+
+<ul>
+	<li>apple</li>
+	<li>pie</li>
+	<li>dumplings</li>
+</ul>
+
+</body>
+</html>
